@@ -1,1 +1,17 @@
 text is not working
+
+cd   -------change directory
+cd /d     ----next directory
+ls     -------list of folders in dir
+cd  Selenium_Dump/git     ------navigate to the git folder in d drive.
+
+git config --global user.name "bkp506"
+git config --global user.email qualeetee114@gmail.com
+git clone https://github.com/Quad1/TestDemo.git
+
+git add testFile.txt                  File name
+git status
+git commit -m "My first commit" testFile.txt
+git push -u origin master
+
+give github user name & passwor  Bablukumarprasad & Bablu@506
